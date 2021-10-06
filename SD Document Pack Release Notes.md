@@ -100,7 +100,7 @@
 
 - BCv17 App - A quick link was added to the standard Dynamics 365 Business Central Company Information page on the Setup Card to allow for easy Company logo load.
 
-- BCv17 App - The licence key controller was added to the product. A change was made that if the licence is not a free trial licence then the Powered by www.DynamicsShop.com text on the reports can be disabled.
+- BCv17 App - The licence key controller was added to the product. A change was made that if the licence is not a free trial licence then the Powered by www.DynamicsShop.com text on the reports can be disabled.
 
 - BCv17 App - The SD Document Pack Purchase Order report was updated to show detail lines.
 
