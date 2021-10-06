@@ -56,7 +56,7 @@
 
 - BCv17 App - Made a change to the following reports layouts to allow to "Use for Email Body" in Report Selection for SD Documents Pack's Sales Quote, Sales Invoice, Sales Order Confirmation, Sales Credit Memo, Sales Proforma Invoice, Customer Statement (Open Items), Customer Statement (Balance Forward), Purchase Order, Sales Commercial Invoice, Sales - Commercial Shipment and Sales - Commercial Invoice.
 
-- BCv17 App - A "Disable Powered by www.DynamicsShop.com"  was added to the Setup Card. This allows users that have a fully licenced (not a free trial licence) to hide this text on SD Document Pack documents and reports.
+- BCv17 App - A "Disable Powered by www.DynamicsShop.com" was added to the Setup Card. This allows users that have a fully licenced (not a free trial licence) to hide this text on SD Document Pack documents and reports.
 
 - BCv17 App - The TAX Array and Total Box grids on the reports were changed to 5 rows and were evenly aligned with each other.
 
