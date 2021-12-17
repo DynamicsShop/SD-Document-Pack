@@ -150,13 +150,13 @@
 
 - BCv16 App - The product logo was changed.
 
-- BCv14 App - A fix was made to an error raised when running the Statement reports from the Tell Me.
+- BCv16 App - The order of the Actions in the Setup Card was changed.
 
 - BCv16 App - Name and Description fields were increased from a length of 50 to 100 as per standard D365BC.
 
-- BCv14 App - Name and Description fields were increased from a length of 50 to 100 as per standard D365BC.
+- BCv14 App - A fix was made to an error raised when running the Statement reports from the Tell Me.
 
-- BCv16 App - The order of the Actions in the Setup Card was changed.
+- BCv14 App - Name and Description fields were increased from a length of 50 to 100 as per standard D365BC.
 
 - BCv14 App - The colour picker component was removed from the code.
 
@@ -164,13 +164,15 @@
 
 - BCv16 App - Fixed an issue where the Proforma Invoice report was not printing details in the Report Info Box.
 
-- BCv14 App - Fixed an issue where the Proforma Invoice report was not printing details in the Report Info Box.
-
 - BCv16 App - A fix was made to a character length error in the Remittance Advice Report ID 43006022.
+
+- BCv16 App - Fixed an issue where a warning message was raised when the user chooses the SD Document Pack Role Centre. 
+
+- BCv14 App - Fixed an issue where the Proforma Invoice report was not printing details in the Report Info Box.
 
 - BCv14 App - A fix was made to a character length error in the Remittance Advice Report ID 43006022.
 
-- BCv16 App - Fixed an issue where a warning message was raised when the user chooses the SD Document Pack Role Centre. 
+- BCv14 App - A fix was made to the Open Items Customer Statement. The currency loop was not summarizing totals correctly when the Ignore Zero Amount Lines option was switched on and there were multiple currencies on the report. 
 
 ### 3.3.5
 
