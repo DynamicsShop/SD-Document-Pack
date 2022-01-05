@@ -1,5 +1,15 @@
 ## SD Document Pack Releases
 
+### 3.4.2
+
+#### Enhancements
+
+- BCv19 App - Removed an unused Action from the Setup Card. 
+
+- BCv19 App - Added the Latest Version of the product and the AppSource URL to the About Page. 
+
+- BCv19 App - Added the Latest ISV Licence Control with fix to Free Trials in Public Environments. 
+
 ### 3.4.1
 
 #### Enhancements
