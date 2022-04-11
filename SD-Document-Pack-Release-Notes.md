@@ -1,5 +1,75 @@
 ## SD Document Pack Releases
 
+### 3.5.0
+
+#### Enhancements
+
+- BCv19 App - Functionality was created to allow the Total Amount in words to pick up the currency description for all currencies in the database. 
+
+- BCv19 App - An option was added to Print Foreign Currency VAT in LCY to the Sales Invoices and Credit Memo Reports. 
+
+- BCv19 App - An option was added to SD Document Pack to print an area on the Sales Invoice report where an authorised signatory can sign the Document. 
+
+- BCv19 App - An option was added to allow users print the Total Amount on the relevant documents as an Amount in Words. 
+
+- BCv19 App - A new field was added to the SD Document Pack Setup called Registered Office. If there is a value in this field, the Registered Office caption and value are printed on all reports. 
+
+- BCv19 App - Default footers were added to the overall SD Document Pack Setup. These default footers will populate the footers on the individual reports. Users can overtype the footers on the individual reports. 
+
+- BCv19 App - The Address field on the Remittance Advice Report was showing extra space. 
+
+- BCv19 App - The Value of the Registered Office was displayed in Bold Text it was changed to Normal Text as per the other values in the Footer. 
+
+- BCv19 App - The option to display the amount in words was moved from the SD Document Pack General Setup to the relevant Report Cards. 
+
+- BCv19 App - The outline of the Digital Signatory box was changed to the same font weight as that of the Report Info Box. 
+
+- BCv19 App - The Digital Signature in the Credit Memo was right aligned to the Total Summary Box. 
+
+- BCv19 App - In the Digital Signature page the Add Digital Signature Action was moved to the Top Most Level on the Menu. 
+
+- BCv19 App - The Default Digital Signature picture was left aligned on the General FastTab of the SD Document Pack Setup. 
+
+- BCv19 App - There was too much space between the Registered Office footer and the value of the field. Also the spaces between the lines in the report footers were not consistent. This was tidied up. 
+
+- BCv19 App - The Registered Office Footer was added to some additional reports - SDY DP Remitt. Advice - Jrnl, SDY DP Remitt. Advice-Entries and SDY DP Manifest. 
+
+- BCv19 App - The code behind the option to show the VAT Amount in LCY was reviewed.
+
+- BCv19 App - In the Sales Order and Sales Quote Reports, when the VAT Box is hidden the Total Summary is printing to the left of the report. The position of the Total Summary should remain right aligned in the Report. 
+
+- BCv19 App - The option to show the amount available in words was surfaced on the SD Document Pack Setup Card. 
+
+- BCv19 App - Layout changes were made to the SD Document Pack Setup Card. 
+
+- BCv19 App - The link on the Tool Tips on the SD Document Pack Pages was updated to our new website. 
+
+- BCv19 App - A change was made to allow for the Bill-To Name on the Sales Invoice Report to wrap to a second line if name doesn't fit on the first line of the Address.
+
+- BCv19 App - A change was made to issue a call to update the subscription expiry date in the product automatically from our licence server when the current expiry date has 5 days to go before expiry. 
+
+- BCv19 App - An option was added to the relevant individual report setups to hide the VAT Information box on reports. 
+
+- BCv19 App - Links in the About Page were updated to our new website. 
+
+#### Bug Fixes
+
+- BCv19 App - Fix to the Commodity Information Text printing on G/L and Comment Lines. 
+
+- BCv19 App - The Delivery Docket Report was showing a blank value for the Registered Office when there was a value entered for the field in the SD Document Pack Setup. 
+
+- BCv19 App - A number of reports were printing the header details with no body on one page and then the header and body on the second page. 
+
+- BCv19 App - An error was raised when Sales Commercial Invoice Order was run. This was fixed. 
+
+- BCv19 App - The Show VAT Info Box option was showing on the Report Card for Reports that don't have the VAT Info Box displayed on the report. 
+
+- BCv19 App - The caption Registered Office was printing in the Report Footers even if there was no value in the field on the SD Document Pack Setup Card. 
+
+- BCv19 App - In the Sales Invoice, the first VAT Line was printing in the second row of the VAT Info Box instead of in the first row. 
+
+- BCv19 App - The Total Amount in Words was worded incorrectly for certain units. 
+
 ### 3.4.2
 
 #### Enhancements
