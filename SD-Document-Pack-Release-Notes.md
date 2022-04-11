@@ -80,6 +80,10 @@
 
 - BCv19 App - Added the Latest ISV Licence Control with fix to Free Trials in Public Environments. 
 
+- BCv19 App - The SD Document pack permission set was changed from an xml file to an extension object.
+
+- BCv19 App - The Product Activation page was changed to disable the Activate button unless a Product Key is filled in order to avoid an error being raised.
+
 ### 3.4.1
 
 #### Enhancements
@@ -93,8 +97,6 @@
 - BCv17 App - A fix was made to the SDY DP Statement Open Items where the currency loop was not summarising totals correctly if there was more than one currency in the report.
 
 ### 3.4.0
-
-#### Enhancements
 
 #### Enhancements
 
@@ -191,6 +193,8 @@
 - BCv17 App - Brexit changes from C/AL release 3.3.7 of SD Document Pack were added to the BCv17 code base. 3 Commercial Invoices were created - new variants of the Sales Invoice Report, Sales Shipment Report, and Sales Order Confirmation Report. 
 
 - BCv17 App - The Barcode API was replaced.
+
+- BCv17 App - Changes were made to the code for AppSource Validation.
 
 - BCv17 App - The functionality in SD Document Pack Reports and Documents was updated to replace the Cross Reference No with the Item Reference feature as per standard Dynamics 365 Business Central.
 
