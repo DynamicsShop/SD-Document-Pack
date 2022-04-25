@@ -200,7 +200,7 @@
 
 - BCv17 App - AppSource warnings were fixed in the SD Document Pack code base.
 
-- BCv14 App - Backport BCv17 v3.4.0 code base to BCv14 and release a BCv14 v3.4.0 release of SD Document Pack.
+- BCv14 App - The BCv17 v3.4.0 code base was backported to BCv14 and a BCv14 v3.4.0 version of SD Document Pack was released.
 
 #### Bug Fixes
 
