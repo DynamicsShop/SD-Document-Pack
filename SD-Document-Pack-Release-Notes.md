@@ -200,6 +200,8 @@
 
 - BCv17 App - AppSource warnings were fixed in the SD Document Pack code base.
 
+- BCv14 App - Backport BCv17 v3.4.0 code base to BCv14 and release a BCv14 v3.4.0 release of SD Document Pack.
+
 #### Bug Fixes
 
 - BCv17 App - Fixed an issue where the Barcode type c39 was not printing on the SD Document Pack Bank Account Recon. Statement Report.
