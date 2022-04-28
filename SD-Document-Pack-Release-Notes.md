@@ -1,5 +1,29 @@
 ## SD Document Pack Releases
 
+### 3.6.0
+
+#### Enhancements
+
+- BCv19 App - The SD Document Pack Delivery Docket was updated to allow the Description field on the lines to display longer descriptions. 
+
+- BCv19 App - The SD Document Pack Sales Credit Memo was updated to allow the Description field on the lines to display longer descriptions. 
+
+- BCv19 App - The SD Document Pack Sales Invoice was updated to allow the Description field on the lines to display longer descriptions. 
+
+- BCv19 App - The SD Document Pack Sales Order Confirmation was updated to allow the Description field on the lines to display longer descriptions. 
+
+- BCv19 App - The SD Document Pack Sales Quote was updated to allow the Description field on the lines to display longer descriptions. 
+
+- BCv19 App - The SD Document Pack Sales Quote was updated to remove a large amount of blank space between where the lines were printing and where the VAT Info box and the Total Summary box were printing. 
+
+- BCv14 App - The BCv19 App v3.6.0 code base was backported to a BCv14 code base and a v3.6.0 BCv14 App was released. 
+
+#### Bug Fixes
+
+- BCv19 App - Fixed an issue where on the SD Document Pack Sales Invoice if the report was printing over two pages, the VAT Info box was printing on the first page and the Total Summary box was printing on the second page. 
+
+- BCv19 App - Fixed an issue in the SD Document Pack Delivery Docket where when a Quote and an Order exist with the same document number, the report was printing the incorrect details. 
+
 ### 3.5.0
 
 #### Enhancements
