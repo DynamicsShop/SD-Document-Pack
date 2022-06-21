@@ -1,5 +1,11 @@
 ## SD Document Pack Releases
 
+### 3.6.1
+
+#### Enhancements
+
+- BCv20 App - A change was made to insert a record in the SDY DP Document Pack RC Cue table when the licence check is first run. This was done to avoid an error being raised when running reports if the SD Document Pack Role Centre was not opened after product install.
+
 ### 3.6.0
 
 #### Enhancements
