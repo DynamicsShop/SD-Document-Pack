@@ -1,5 +1,15 @@
 ## SD Document Pack Releases
 
+### 3.6.2
+
+#### Enhancements
+
+- BCv20 App - Made a change to the Bank Account Reconciliation Statement - Test (43006026) to set the property savevalues as true.
+
+#### Bug Fixes
+
+- BCv20 App - Fixed an issue in the Bank Account Reconciliation Statement - Test report where O/S Lodgement Entries were not printing.
+
 ### 3.6.1
 
 #### Bug Fixes
