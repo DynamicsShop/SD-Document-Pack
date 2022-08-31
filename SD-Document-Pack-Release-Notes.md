@@ -16,6 +16,12 @@
 
 - BCv20 App - A change was made to insert a record in the SDY DP Document Pack RC Cue table when the licence check is first run. This was done to avoid an error being raised when running reports if the SD Document Pack Role Centre was not opened after product install.
 
+### 3.6.0.1
+
+#### Enhancements
+
+- BCv14 App - The BCv14 release 3.6.0 was translated to French FRA and released as 3.6.0.1. The translation was applied to this release only and not to other future releases.
+
 ### 3.6.0
 
 #### Enhancements
