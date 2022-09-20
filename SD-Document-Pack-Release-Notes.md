@@ -16,6 +16,16 @@
 
 - BCv20 App - A change was made to insert a record in the SDY DP Document Pack RC Cue table when the licence check is first run. This was done to avoid an error being raised when running reports if the SD Document Pack Role Centre was not opened after product install.
 
+### 3.6.0.3
+
+#### Enhancements
+
+- BCv14 App - The latest version of the licence controller was added to this BCv14 code base version of the product. The licence expiry message was updated to display the app name. This change was made to the BCv14 release only, released as v3.6.0.3  and was not applied to any future releases.
+
+- BCv14 App - A page was created in this BCv14 code base version of the product to display all the Simply Dynamics Apps and subscription details for the tenant. This change was made to the BCv14 release only, released as v3.6.0.3  and was not applied to any future releases.
+
+- BCv14 App - A change was made to allow addition of modified SD Document Pack reports saved in the custom range to the SD Document Pack Setup. This change was made to the BCv14 release only, released as v3.6.0.3  and was not applied to any future releases.
+
 ### 3.6.0.2
 
 #### Enhancements
@@ -26,7 +36,7 @@
 
 #### Enhancements
 
-- BCv14 App - The BCv14 release 3.6.0 was translated to French FRA and released as 3.6.0.1. The translation was applied to this release only and not to other future releases.
+- BCv14 App - The BCv14 release 3.6.0 was translated to French FRA and released as 3.6.0.1. The translation was applied to this release only, released as v3.6.0.1 and was not applied to other future releases.
 
 ### 3.6.0
 
