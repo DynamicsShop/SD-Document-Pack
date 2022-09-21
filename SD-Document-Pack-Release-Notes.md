@@ -1,5 +1,21 @@
 ## SD Document Pack Releases
 
+### 3.6.3
+
+#### Enhancements
+
+- BCv20 App - A change was made to the SD Document Pack Bank Reconciliation report to set the property savevalues to false. Unnecessary fields were removed from the request page. 
+
+- BCv20 App - A page was created to display all Simply Dynamics Apps and Subscription details for the tenant. 
+
+- BCv20 App - The Licence Expiry Message/Notification was updated to display the App name. 
+
+- BCv20 App - The Product Activation page was updated to point to the new URL to subscribe for a new licence. 
+
+#### Bug Fixes
+
+- BCv20 App - A fix was made to the code for licence key checks on the SD Document Pack Role Centre. 
+
 ### 3.6.2
 
 #### Enhancements
