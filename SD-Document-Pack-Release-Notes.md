@@ -1,5 +1,15 @@
 ## SD Document Pack Releases
 
+### 3.6.4
+
+#### Enhancements
+
+- BCv21 App - A change was made to allow the addition of modified SD Document Pack reports saved in the custom range to the SD Document Pack Setup. 
+
+- BCv21 App - The actions on the Process action group in the SD Document Pack Setup card were reordered to match that of our other ISV Apps.
+
+- BCv21 App - The Licence Message displayed on first install of SD Document Pack was changed to prompt the user to activate a free trial with a link to the Product Activation page.
+
 ### 3.6.3
 
 #### Enhancements
