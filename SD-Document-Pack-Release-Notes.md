@@ -10,6 +10,10 @@
 
 - BCv21 App - The Licence Message displayed on first install of SD Document Pack was changed to prompt the user to activate a free trial with a link to the Product Activation page.
 
+- BCv21 App - A change was made to the SD Document Pack Purchase Order as the Item Cross Reference table has been replaced with the Item Reference table.
+
+- BCv21 App - The format of the SD Document Pack permission name was standardised to that of our other Apps.
+
 ### 3.6.3
 
 #### Enhancements
