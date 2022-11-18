@@ -1,5 +1,11 @@
 ## SD Document Pack Releases
 
+### 3.6.5
+
+#### Enhancements
+
+- BCv21 App - A change was made to the O/S Lodgements and the O/S Payments calculations in the SD Document Pack Bank Reconciliation report. 
+
 ### 3.6.4
 
 #### Enhancements
