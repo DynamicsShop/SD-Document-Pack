@@ -1,5 +1,11 @@
 ## SD Document Pack Releases
 
+### 3.6.6
+
+#### Enhancements
+
+- BCv21 App - A new SD Document Pack Commercial Invoice report (ID 43006037) based on the Sales Orders was created.
+
 ### 3.6.5
 
 #### Enhancements
