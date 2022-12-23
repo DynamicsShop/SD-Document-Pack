@@ -1,5 +1,13 @@
 ## SD Document Pack Releases
 
+### 3.6.7
+
+#### Enhancements
+
+- BCv21 App - A new SD Document Pack Report, 43006019, SDY DP Cust. Rcpt. with Alloc. was created to show Customer Payments and the allocations against the Invoices.
+
+- BCv21 App - A change was made to the SD Document Pack reports to allow for flowfields to display in the Info Box.
+
 ### 3.6.6
 
 #### Enhancements
