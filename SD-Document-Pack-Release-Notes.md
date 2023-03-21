@@ -1,5 +1,15 @@
 ## SD Document Pack Releases
 
+### 3.6.8
+
+#### Bug Fixes
+
+- BCv21 App - The total Prepayment Amount on the Proforma Invoice, Sales Order, and the Commercial Invoice (based on the Sales Order) was showing the value of the first prepayment line only if the prepayment lines were not compressed.
+
+- BCv21 App - The SD Document Pack Tenant Subscriptions page had an incorrect caption. This was fixed.
+
+- BCv21 App - A change was made to the ISV Licence Notification procedure in SD Document Pack to fix an issue that would raise an error when the language is changed from English to another language.
+
 ### 3.6.7
 
 #### Enhancements
