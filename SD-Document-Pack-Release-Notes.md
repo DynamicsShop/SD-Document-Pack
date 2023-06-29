@@ -1,5 +1,17 @@
 ## SD Document Pack Releases
 
+### 3.6.9
+
+#### Enhancements
+
+- AppSource App - A change was made to pass the value of the Show Aging Band option in SD Bulk Mailer Jobs of Type Statement to the SD Document Pack Statement reports. 
+
+- AppSource App - A change was made to limit the SD ISV Tenant Subscriptions page to display just our SD ISV AppSource Apps and not other SD PTE Apps.
+
+#### Bug Fixes
+
+- AppSource App - When selecting SD activity pages in the Tell Me/Search in a BCv22 environment, the activity pages were hanging. This was fixed and a new SD Document Activity page is now searchable from the Tell Me search.
+
 ### 3.6.8
 
 #### Bug Fixes
