@@ -1,5 +1,15 @@
 ## SD Document Pack Releases
 
+### 3.6.10
+
+#### Enhancements
+
+- AppSource App - The Work Instructions were added to the Sales Quote report ID 43006010.
+
+- AppSource App - The Work Instructions were added to the Sales Invoice report ID 43006011.
+
+- AppSource App - The Work Instructions were added to the Sales Order report ID 43006012.
+
 ### 3.6.9
 
 #### Enhancements
