@@ -1,5 +1,11 @@
 ## SD Document Pack Releases
 
+### 3.6.11
+
+#### Bug Fixes
+
+- AppSource App - Fix to Amount in Words Caption and Text floating and not anchored in the layout for Sales Quotes, Orders, and Invoices.
+
 ### 3.6.10
 
 #### Enhancements
