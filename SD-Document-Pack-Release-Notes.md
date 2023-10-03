@@ -10,6 +10,8 @@
 
 - AppSource App - The Work Instructions were added to the Sales Order report ID 43006012.
 
+- AppSource App - In the Brand Card, the AddPicture function (obsoleted) was replaced with the GetPicture function in the Camera codeunit.
+
 ### 3.6.9
 
 #### Enhancements
