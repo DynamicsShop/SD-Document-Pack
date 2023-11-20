@@ -1,5 +1,32 @@
 ## SD Document Pack Releases
 
+### 3.7.0
+
+#### Enhancements
+- AppSource App - The Work Instruction was added to the Sales Commercial Invoice - Invoice report.  
+
+- AppSource App - The Work Instruction was added to the Sales Commercial Invoice - Shipment report.
+
+- AppSource App - The Work Instruction was added to the SDY DP Sales Commercial Invoice report.  
+
+- AppSource App - The Work Instruction was added to the Work Order report.  
+
+- AppSource App - The Work Instruction was added to the Delivery Document report.  
+
+- AppSource App - The Work Instructions were added to the Pick Instruction report. 
+
+- AppSource App - The Work Instruction was added to the Proforma Invoice.  
+
+- AppSource App - The Work Instruction was added to the Sales Credit Memo report.  
+
+- AppSource App - The Work Instruction was added to the Sales Shipment report.  
+
+#### Bug Fixes
+
+- AppSource App - A fix was made to the Amount in Words Caption and Text which were floating and not anchored in the report layouts.
+
+- AppSource App - A fix was made to the Total Including VAT in the Prepayment section of the Proforma Invoice. 
+
 ### 3.6.11
 
 #### Bug Fixes
