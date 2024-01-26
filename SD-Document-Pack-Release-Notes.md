@@ -1,12 +1,18 @@
 ## SD Document Pack Releases
 
+### 3.7.2
+
+#### Enhancements
+
+- AppSource App - An option was added to the Sales Invoice to show a Confirmed Paid stamp on fully paid Sales Invoices.
+
 ### 3.7.1
 
 #### Enhancements
 
-AppSource App - The option to select a second Address Type on the Credit Memo of None, Sell To or Ship To, was added as per the other Sales Documents in SD Document Pack.
+- AppSource App - The option to select a second Address Type on the Credit Memo of None, Sell To or Ship To, was added as per the other Sales Documents in SD Document Pack.
 
-AppSource App - The links in the About Page were updated.
+- AppSource App - The links in the About Page were updated.
 
 ### 3.7.0
 
