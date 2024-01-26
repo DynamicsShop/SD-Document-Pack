@@ -137,6 +137,12 @@ AppSource App - The links in the About Page were updated.
 
 - BCv20 App - Fixed an issue in the Bank Account Reconciliation Statement - Test report where O/S Lodgement Entries were not printing.
 
+### 3.6.2.0
+
+#### Enhancements
+
+- BCv14 App - An option was added to the Sales Invoice to show a Confirmed Paid stamp on fully paid Sales Invoices.
+
 ### 3.6.1
 
 #### Bug Fixes
