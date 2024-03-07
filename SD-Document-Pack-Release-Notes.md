@@ -1,5 +1,17 @@
 ## SD Document Pack Releases
 
+### 3.7.3
+
+#### Enhancements
+
+- AppSource App - The Manifest Report was changed to add new filters to the report request page. A Shipping Agent Service filter and an option to print related delivery dockets or not was added.
+
+- AppSource App - The logo in App was updated to the new logo.
+
+#### Bug Fixes
+
+- AppSource App - A fix was made to the currency grouping in the Vendor Remittance Report. A Currency Code column and Amount (LCY) were also added to the report for clarity.
+
 ### 3.7.2
 
 #### Enhancements
