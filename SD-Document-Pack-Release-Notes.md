@@ -1,5 +1,39 @@
 ## SD Document Pack Releases
 
+### 3.8.0
+
+#### Enhancements
+
+- AppSource App - The VAT Code and VAT Description fields were increased on the relevant reports to allow a VAT Code and Description with a value of Standard to fit in the reports without truncation or wraparound.
+
+- AppSource App - If a Resposibility Centre exists on the Sales Header, the Sales Quote picks up the Phone No. from the Responsibility Centre. A blank Phone No. was printing on the report where Responsibility Centres did not have a Phone No. specified. This was changed to print the Phone No. from the Company Information if the Phone No. on the Responsibility Centre is blank.
+
+- AppSource App - The Assisted Setup action was changed to download the assisted setup data from GitHub.
+
+- AppSource App - Data in the Assisted Setup was updated.
+
+- AppSource App - A change was made to the barcode logic to allow users select different fields to print as a barcode other than just the primary key on the table.
+
+- AppSource App - Minor layout changes were made to the Sales Quote.
+
+- AppSource App - Minor layout changes were made to the Sales Credit Memo.
+
+- AppSource App - Minor layout changes were made to the Proforma Invoice.
+
+- AppSource App - Minor layout changes were made to the Purchase Order.
+
+- AppSource App - Minor layout changes were made to the Sales Return Order.
+
+- AppSource App - Minor layout changes were made to the Commercial Invoice.
+
+#### Bug Fixes
+
+- AppSource App - The barcode was not printing on the Purchase Order. This was fixed.
+
+- AppSource App - The barcode functionality was not clearing the previously cached barcode value on the Statements.  
+
+- AppSource App - The barcode functionality was not clearing the previously cached barcode value on the reports. This was fixed.
+
 ### 3.7.3
 
 #### Enhancements
@@ -29,6 +63,7 @@
 ### 3.7.0
 
 #### Enhancements
+
 - AppSource App - The Work Instruction was added to the Sales Commercial Invoice - Invoice report.  
 
 - AppSource App - The Work Instruction was added to the Sales Commercial Invoice - Shipment report.
