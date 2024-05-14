@@ -1,5 +1,25 @@
 ## SD Document Pack Releases
 
+### 4.0.0
+
+#### Enhancements
+
+- AppSource App - Electronic Document versions for a number of reports were added to SD Document Pack.
+
+- AppSource App - An Electronic Document version of the Sales Quote in the UBL-2.0 format was added to SD Document Pack.
+
+- AppSource App - An Electronic Document version of the Purchase Order in the UBL-2.0 format was added to SD Document Pack.
+
+- AppSource App - An Electronic Document version of the Despatch Advice/Sales Shipment in the UBL-2.0 format was added to SD Document Pack.
+
+- AppSource App - An Electronic Document version of the Customer Statement in the UBL-2.0 format was added to SD Document Pack.
+
+- AppSource App - An Electronic Document version of the Customer Issued Reminders in the UBL-2.0 format was added to SD Document Pack.
+
+- AppSource App - The Purchase Order report was changed to print Purchase Order rather than Pur. Order in the Report Info Box.
+
+- AppSource App - A change was made to the import of Assisted Data Setup.
+
 ### 3.8.0
 
 #### Enhancements
