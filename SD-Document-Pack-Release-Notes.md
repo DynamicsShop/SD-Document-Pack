@@ -50,10 +50,6 @@
 
 - AppSource App - The barcode was not printing on the Purchase Order. This was fixed.
 
-- AppSource App - The barcode functionality was not clearing the previously cached barcode value on the Statements.  
-
-- AppSource App - The barcode functionality was not clearing the previously cached barcode value on the reports. This was fixed.
-
 ### 3.7.3
 
 #### Enhancements
@@ -329,20 +325,6 @@
 #### Bug Fixes
 
 - BCv19 App - Fix to the Commodity Information Text printing on G/L and Comment Lines. 
-
-- BCv19 App - The Delivery Docket Report was showing a blank value for the Registered Office when there was a value entered for the field in the SD Document Pack Setup. 
-
-- BCv19 App - A number of reports were printing the header details with no body on one page and then the header and body on the second page. 
-
-- BCv19 App - An error was raised when Sales Commercial Invoice Order was run. This was fixed. 
-
-- BCv19 App - The Show VAT Info Box option was showing on the Report Card for Reports that don't have the VAT Info Box displayed on the report. 
-
-- BCv19 App - The caption Registered Office was printing in the Report Footers even if there was no value in the field on the SD Document Pack Setup Card. 
-
-- BCv19 App - In the Sales Invoice, the first VAT Line was printing in the second row of the VAT Info Box instead of in the first row. 
-
-- BCv19 App - The Total Amount in Words was worded incorrectly for certain units. 
 
 ### 3.4.2
 
