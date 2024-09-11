@@ -4,29 +4,29 @@
 
 #### Enhancements
 
-AppSource App - The barcode setup in the Report Setup Card was reworked. The Barcode Setup table was removed and the barcode setup was moved to the Report table. Two new fields, Barcode Type and Show Text On Barcode, were added to the Report table. Upgrade code was written to transfer the data to the new fields.
+- AppSource App - The barcode setup in the Report Setup Card was reworked. The Barcode Setup table was removed and the barcode setup was moved to the Report table. Two new fields, Barcode Type and Show Text On Barcode, were added to the Report table. Upgrade code was written to transfer the data to the new fields.
 
-AppSource App - A new FlowField was added to the SD Document Pack Report list to display a count of the Brands that are linked to the report.
+- AppSource App - A new FlowField was added to the SD Document Pack Report list to display a count of the Brands that are linked to the report.
 
-AppSource App - UI changes were made to the Report Card.
+- AppSource App - UI changes were made to the Report Card.
 
-AppSource App - A message was added to the Report Info Box that displays if a user adds more than 10 lines to the Report Info Box. The message details that a maximum of 10 lines of information is displayed on the Report Info Box.
+- AppSource App - A message was added to the Report Info Box that displays if a user adds more than 10 lines to the Report Info Box. The message details that a maximum of 10 lines of information is displayed on the Report Info Box.
 
-AppSource App - The SD Document Pack Activities page was reworked.
+- AppSource App - The SD Document Pack Activities page was reworked.
 
-AppSource App - A change was made to restrict the list of banks displayed in the Currency Bank Accounts FastTab in the Document Pack Setup to the currency code that the user has selected in the Currency Bank Accounts record.
+- AppSource App - A change was made to restrict the list of banks displayed in the Currency Bank Accounts FastTab in the Document Pack Setup to the currency code that the user has selected in the Currency Bank Accounts record.
 
-AppSource App - ToolTips in SD Document Pack were reviewed and updated. 
+- AppSource App - ToolTips in SD Document Pack were reviewed and updated. 
 
-AppSource App - SD Document Pack pages were surfaced in the Navigate Bar on the SD Document Pack Role Centre.
+- AppSource App - SD Document Pack pages were surfaced in the Navigate Bar on the SD Document Pack Role Centre.
 
-AppSource App - The Setup and About actions were removed from the SD Document Pack Role Centre.
+- AppSource App - The Setup and About actions were removed from the SD Document Pack Role Centre.
 
-AppSource App - The Tell Me search was updated to show other SD Document Pack pages.
+- AppSource App - The Tell Me search was updated to show other SD Document Pack pages.
 
 #### Bug Fixes
 
-AppSource App - A fix was made to an intermittent error raised on the Posted Sales Invoice report that the Item Ledger Entry Entry did not exist for the Item Tracking Lines.
+- AppSource App - A fix was made to an intermittent error raised on the Posted Sales Invoice report that the Item Ledger Entry Entry did not exist for the Item Tracking Lines.
 
 ### 4.0.0
 
