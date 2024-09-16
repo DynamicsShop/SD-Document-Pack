@@ -4,6 +4,8 @@
 
 #### Enhancements
 
+- AppSource App - Update for 2024 wave 2 release. Report Interactions no longer contain a definition for the FindInteractTmplCode function in 2024 wave 2. FindInteractTmplCode function replaced with new functionality. 19 reports in SD Document Pack were updated to call the new functionality. 
+
 - AppSource App - The barcode setup in the Report Setup Card was reworked. The Barcode Setup table was removed and the barcode setup was moved to the Report table. Two new fields, Barcode Type and Show Text On Barcode, were added to the Report table. Upgrade code was written to transfer the data to the new fields.
 
 - AppSource App - A new FlowField was added to the SD Document Pack Report list to display a count of the Brands that are linked to the report.
