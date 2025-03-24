@@ -1,5 +1,11 @@
 ## SD Document Pack Releases
 
+### 4.1.2
+
+#### Enhancements
+
+- AppSource App - Changes were made to all reports to tidy up report variables and remove obsolete code to comply with pipelines for 2025 release wave 1.
+
 ### 4.1.1
 
 #### Enhancements
