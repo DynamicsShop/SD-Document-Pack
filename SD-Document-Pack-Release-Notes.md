@@ -1,5 +1,11 @@
 ## SD Document Pack Releases
 
+### 4.1.3
+
+#### Bug Fixes
+
+- AppSource App - A fix was made to the SDY DP Statement Open Items. For zero balance statements the currency and total variables were not clearing from the last statement.
+
 ### 4.1.2
 
 #### Enhancements
