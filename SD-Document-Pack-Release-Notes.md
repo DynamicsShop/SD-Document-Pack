@@ -1,5 +1,23 @@
 ## SD Document Pack Releases
 
+### 4.2.0
+
+#### Enhancements
+
+- AppSource App - Extra filters and calcsums were added to the code in the Vendor Remittance report Vendor Remittance Advice as payments with repeating document numbers were showing the first applied payment on the Vendor Ledger Entry made against the invoice.
+
+- AppSource App - A new Licence Install and Setup Wizard was created.
+
+- AppSource App - The notification to activate the app, displayed on fresh install of SD Document Pack, was added to the standard Business Central role centres.
+
+- AppSource App - Changes were made to the Manage Subscriptions page.
+
+- AppSource App - The Lead Subscription Link from the Request Subscription action in the Product Activation page was updated.
+
+- AppSource App - A new action was added to the Setup Card called View Our Apps. This action opens a page on AppSource pointing to all our Simply Dynamics Ltd apps.
+
+- AppSource App - A minor change was made to the About page.
+
 ### 4.1.3
 
 #### Bug Fixes
