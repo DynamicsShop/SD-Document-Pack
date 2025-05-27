@@ -1,5 +1,11 @@
 ## SD Document Pack Releases
 
+### 4.2.1
+
+#### Enhancements
+
+- AppSource App - A minor modification was made to the Setup Wizard.
+
 ### 4.2.0
 
 #### Enhancements
