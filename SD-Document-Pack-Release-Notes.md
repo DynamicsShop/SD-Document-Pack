@@ -1,5 +1,11 @@
 ## SD Document Pack Releases
 
+### 4.2.2
+
+#### Enhancements
+
+- AppSource App - A minor change to the Product Activation page.
+  
 ### 4.2.1
 
 #### Enhancements
