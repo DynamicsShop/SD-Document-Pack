@@ -1,5 +1,11 @@
 ## SD Document Pack Releases
 
+### 4.2.3
+
+#### Bug Fixes
+
+- AppSource App - A minor layout change was made to the Vendor Remittance report. When a credit memo was applied to an invoice the Your No column was truncated on the layout line for the Credit Memo.
+
 ### 4.2.2
 
 #### Enhancements
