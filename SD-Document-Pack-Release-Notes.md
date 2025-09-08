@@ -1,5 +1,11 @@
 ## SD Document Pack Releases
 
+### 4.2.4
+
+#### Enhancements
+
+- AppSource App - A link to the user guide on the DynamicsShop page was added to the About page and to the Manage Subscriptions page.
+
 ### 4.2.3
 
 #### Bug Fixes
@@ -1200,3 +1206,4 @@ Profiler: 
 - Profiler - Renumbered and reordered the Tables and Pages. 
 - Cleaned up the objects. 
 - Code upgraded to 2016.
+
